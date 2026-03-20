@@ -1,7 +1,11 @@
 # ai-projects
 AI powered systems automation workflows and content tools built for real world results
 # Shaker Alnajem
+## Portfolio
 
+- Live Portfolio: https://shaker-alnajem.netlify.app  
+- Download PDF: https://github.com/shakeralnajem-crypto/ai-projects/blob/main/Shaker_Portfolio.pdf
+  
 I build AI powered systems that improve marketing performance automate workflows and solve real business problems
 
 ## Selected Projects
@@ -24,5 +28,3 @@ Connected multiple tools using APIs and automation logic
 - Content systems
 - Real business solutions
 
-## Portfolio
-https://shaker-alnajem.netlify.app
